@@ -23,6 +23,6 @@ An AI-powered chatbot built using Google Gemini, LangChain, and FAISS that deliv
 3. Run all cells sequentially
 
 ## Team
-- Samriddhi Gupta
 - Amrita Tetwal
+- Samriddhi Gupta
 - Divyanshu Gupte
